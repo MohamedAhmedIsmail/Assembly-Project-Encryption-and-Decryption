@@ -1,0 +1,9 @@
+C:\Users\user\documents\visual studio 2012\Projects\PlayFairEncryption\PlayFairEncryption\bin\Release\PlayFairEncryption.exe.config
+C:\Users\user\documents\visual studio 2012\Projects\PlayFairEncryption\PlayFairEncryption\bin\Release\PlayFairEncryption.exe
+C:\Users\user\documents\visual studio 2012\Projects\PlayFairEncryption\PlayFairEncryption\bin\Release\PlayFairEncryption.pdb
+C:\Users\user\documents\visual studio 2012\Projects\PlayFairEncryption\PlayFairEncryption\obj\Release\PlayFairEncryption.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2012\Projects\PlayFairEncryption\PlayFairEncryption\obj\Release\PlayFairEncryption.Form1.resources
+C:\Users\user\documents\visual studio 2012\Projects\PlayFairEncryption\PlayFairEncryption\obj\Release\PlayFairEncryption.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2012\Projects\PlayFairEncryption\PlayFairEncryption\obj\Release\PlayFairEncryption.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2012\Projects\PlayFairEncryption\PlayFairEncryption\obj\Release\PlayFairEncryption.exe
+C:\Users\user\documents\visual studio 2012\Projects\PlayFairEncryption\PlayFairEncryption\obj\Release\PlayFairEncryption.pdb
